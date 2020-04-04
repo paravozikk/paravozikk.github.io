@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+        <li>
+            <a href="#main">шрек 1</a>
+        </li>
+        <li>
+            <a href="#main1">шрек 2</a>
+        </li>
+        <li>
+            <a href="#main2">шрек 3</a>
+        </li>
+        <li>
+            <a href="#main3">кек 4</a>
+        </li>   
+    </ul>
+    <img src="https://lh3.googleusercontent.com/proxy/z9k21NO1jQ4UUMTsFuZxdVg4eqRZth58cOJCf2bzrpL-GVuC2RCsnyPdgLTsBiNPpMt16JbVJrAw3PCBZKUTDNlHdMen_Qx2Das" weight250px height="250px" alt="">
+    <br>
+    <em id="main">шрек 1</em>
+    <h3>по факту чіста</h3>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore, autem amet. Qui, quisquam neque, aliquam numquam dolorem iure quasi dolorum consequatur ad quo harum recusandae explicabo, fugiat ratione? Ducimus, nulla.
+
+    <img src="https://memepedia.ru/wp-content/uploads/2016/08/med_1426704578_00014.jpg" weight250px height="250px" alt="">
+    <br>
+    <em id="main1">шрек 2</em>
+    <h3>хачу сирок</h3>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis illum atque esse labore sunt delectus assumenda dolores ut non tenetur quasi dicta ex eveniet libero illo, provident doloribus officiis consequatur?</p>
+
+    <img src="https://www.meme-arsenal.com/memes/7fa782ed72db235d45c7e7c2ac9bf7e4.jpg" weight250px height="250px" alt="">
+    <br>
+    <em id="main2">шрек 3</em>
+    <h3>шо ?</h3>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere excepturi ipsum molestias iure natus eveniet nulla aspernatur, illo perspiciatis vel perferendis eligendi nostrum labore est id veritatis eos rem adipisci.</p>
+
+    <img src="https://lh3.googleusercontent.com/proxy/hhopdtUdE0KOWDbAxqQqid48lPVXhxqIB7rcYQdzFnTR2rpI97pFg7y28RKo4wtI_H5cBUzg6dJYOgG7EfEtxF0-796yxgb5dhY" weight250px height="250px" alt="">
+    <br>
+    <em id="main3">кек 4</em>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas mollitia, dolor sint aut facere, eius qui eos, soluta dicta magni assumenda debitis unde? Hic debitis modi commodi? Esse, ex exercitationem.</p>
+
+    <button>нажмиииии</button>
+</body>
+</html>
